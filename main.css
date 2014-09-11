@@ -183,3 +183,67 @@ input.pink-button {
 	margin-left: 20px;
 }
 
+.comment-stream-small-wrapper-1 {
+	display: inline-block;
+}
+
+.comment-stream-small-image {
+	display: inline-block;
+}
+
+.comment-stream-twitter-feed-small {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 6px;
+}
+
+.null-empire-final-div {
+	display: block;
+	margin: 6px 0px 0px 70px;
+}
+
+.comment-stream-time {
+	font-size: 0.75em;
+	color: #d3d3d3;
+}
+
+.tab-list {
+	list-style-type: none;
+	text-decoration: none;
+	padding-bottom: 0;
+	position: relative;
+	top: 1px;
+	z-index: 20;
+}
+
+.tab-list li a {
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 0.9em;
+	float: left;
+	padding: 5px 10px;
+	border: 1px solid #A7AADF;
+	border-radius: 7px 7px 0px 0px;
+	margin: 0px 10px 0px 0px;
+	position: relative;
+}
+
+.tab-link-font {
+	position: relative;
+	z-index: 2001;
+	border: 1px solid white;
+}
+
+.tab-list .tab-link-font-hover {
+	border-bottom-color: #FFF;	
+	z-index: 2001;
+	position: relative;
+}
+
+.tab-paragraph {
+	clear: left;
+	position: relative;
+	border: 1px solid #A7AADF;
+	padding: 10px;
+	border-radius: 5px;
+}
